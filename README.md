@@ -1,8 +1,8 @@
 # Custom Style for PubMed Batch Citation Matcher
 Custom .CSL style file that will output citations in a format accepted as input to PubMed's Batch Citation Matcher
---------------------------------------------------
-[![license](https://img.shields.io/badge/license-CC%20BY%20SA%203.0-blue.svg)](https://github.com/citation-style-language/styles#licensing)
 
+[![license](https://img.shields.io/badge/license-CC%20BY%20SA%203.0-blue.svg)](https://github.com/citation-style-language/styles#licensing)
+--------------------------------------------------
 
 When using PubMed's [Batch Citation Matcher (BCM)](https://pubmed.ncbi.nlm.nih.gov/batchcitmatch/) to retrieve PMIDs for multiple citations, PubMed BCM needs the following citation input format:
 
