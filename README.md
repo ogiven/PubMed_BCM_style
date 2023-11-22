@@ -8,8 +8,6 @@ Custom Style for PubMed Batch Citation Matcher
 [![license](https://img.shields.io/badge/license-CC%20BY%20SA%203.0-blue.svg)](https://github.com/citation-style-language/styles#licensing)
 
 
-[github.com/citation-style-language/styles](https://github.com/citation-style-language/styles)
-
 When using PubMed's [Batch Citation Matcher (BCM)](https://pubmed.ncbi.nlm.nih.gov/batchcitmatch/) to retrieve PMIDs for multiple citations, PubMed BCM needs the following citation input format:
 
 journal_title|year|volume|first_page|author_name|your_key|
